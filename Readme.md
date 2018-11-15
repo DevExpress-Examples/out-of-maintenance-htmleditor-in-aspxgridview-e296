@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/HtmlEditorInASPxGridView/Default.aspx) (VB: [Default.aspx.vb](./VB/HtmlEditorInASPxGridView/Default.aspx.vb))
+* [Default.aspx.cs](./CS/HtmlEditorInASPxGridView/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/HtmlEditorInASPxGridView/Default.aspx.vb))
+<!-- default file list end -->
 # HtmlEditor in ASPxGridView
 
 
