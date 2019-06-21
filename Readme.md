@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/HtmlEditorInASPxGridView/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/HtmlEditorInASPxGridView/Default.aspx.vb))
 <!-- default file list end -->
 # HtmlEditor in ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e296/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the ASPxHtmlEditor control in the ASPxGridView EditForm for editing text column data.</p><p>The ASPxHtmlEditor is defined within the <strong>ASPxGridView EditFormTemplate</strong> and bound with the "<strong>DescriptionHtml</strong>" column via the <a href="http://msdn.microsoft.com/en-us/library/ms178366.ASPX"><u>binding expression</u></a> (the "<strong>Eval</strong>" method).<br />
